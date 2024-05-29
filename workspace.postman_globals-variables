@@ -1,0 +1,69 @@
+{
+	"id": "6cd3c980-954d-442c-8455-9cfb10a32264",
+	"values": [
+		{
+			"key": "globalID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "gname",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "gemail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalUpdatedName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "gendpoint",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "gAccessToken",
+			"value": "d869838242cf3e536fa605a2a2cb5ff89386a4a46d53bbfb1bc621e5a939e4ff",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "gemail",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-05-29T06:26:45.662Z",
+	"_postman_exported_using": "Postman/11.1.14"
+}
